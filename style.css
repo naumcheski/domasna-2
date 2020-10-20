@@ -1,0 +1,60 @@
+.logo{
+     border: 1px solid black;
+     border-radius: 2px;
+    background-color: grey;
+    border: 1px solid black;
+    width: 98%;
+    height: 120px;
+    margin: 10px;
+    display: block;
+       
+}
+.logo_real{
+    width: 90px;
+    height: 120px;
+    margin-left: 5px;
+}
+.navbar{
+    display: block;
+    float: right;
+    
+}
+.header{
+    display: ruby-text-container;
+    border: 1px solid black;
+    background-color: grey;
+    margin-left: 0px;
+    width: 100%;
+    height: 200px;
+    }
+.text-area{
+    border: 1px solid black;
+    background-color: grey;
+    width: 99%;
+    height: 180px;
+    margin-top: 220px;
+    margin-left: 10px;
+    
+}
+
+.Row {
+    
+    display: table;
+    border-spacing: 10px;
+    width: 100%;
+    table-layout: fixed; 
+}
+.Column {
+    border: 1px solid  black;
+    display: table-cell;
+    background-color: grey; 
+}
+.footer{
+    float: left;
+    display: inline-block;
+    border: 1px solid black;
+    background-color: grey;
+    width: 99%;
+    height: 120px;
+    margin-left: 10px;
+}
